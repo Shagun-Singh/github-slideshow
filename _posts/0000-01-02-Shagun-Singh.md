@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+You change the world by being yourself..
 Use the left arrow to go back!
